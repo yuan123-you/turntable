@@ -1,0 +1,40 @@
+@import '@dcloudio/uni-ui/lib/uni-scss/variables.scss';
+
+$uni-color-primary: #FF6B6B;
+$uni-color-success: #4ECDC4;
+$uni-color-warning: #FFA726;
+$uni-color-error: #FF6B6B;
+
+$uni-text-color: #333333;
+$uni-text-color-grey: #999999;
+$uni-text-color-placeholder: #CCCCCC;
+$uni-text-color-disable: #DDDDDD;
+
+$uni-bg-color: #F8F8F8;
+$uni-bg-color-grey: #F5F5F5;
+$uni-bg-color-hover: #F1F1F1;
+$uni-bg-color-mask: rgba(0, 0, 0, 0.4);
+
+$uni-border-color: #E0E0E0;
+
+$uni-font-size-sm: 24rpx;
+$uni-font-size-base: 28rpx;
+$uni-font-size-lg: 32rpx;
+$uni-font-size-xl: 36rpx;
+$uni-font-size-xxl: 40rpx;
+
+$uni-spacing-row-sm: 10rpx;
+$uni-spacing-row-base: 20rpx;
+$uni-spacing-row-lg: 30rpx;
+
+$uni-spacing-col-sm: 8rpx;
+$uni-spacing-col-base: 16rpx;
+$uni-spacing-col-lg: 24rpx;
+
+$uni-radius-sm: 4rpx;
+$uni-radius-base: 8rpx;
+$uni-radius-lg: 16rpx;
+$uni-radius-circle: 50%;
+
+$uni-shadow-base: 0 4rpx 12rpx rgba(0, 0, 0, 0.08);
+$uni-shadow-lg: 0 8rpx 24rpx rgba(0, 0, 0, 0.12);
